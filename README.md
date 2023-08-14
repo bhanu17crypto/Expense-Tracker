@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ##Netlify Link
-nimble-travesseiro-be6a77.netlify.app
+https://nimble-travesseiro-be6a77.netlify.app/
 
 ## Available Scripts
 
